@@ -6,7 +6,7 @@ Implement the Breadth-First Search (BFS) algorithm to find a path between two no
 ## Problem Statement
 Given the following tree:
 
-'''text
+```text
         A
       /   \
      B     C
@@ -14,7 +14,7 @@ Given the following tree:
    D   E F   G
        |
        H
-'''
+```
 
 Find the path from **A** to **H**.
 
