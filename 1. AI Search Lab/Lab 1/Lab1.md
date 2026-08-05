@@ -41,5 +41,4 @@ The program explores the state space and identifies the state where the 4-litre 
 - Lists
 - Successor Function
 
-## Author
-Aakaash Anoop
+
