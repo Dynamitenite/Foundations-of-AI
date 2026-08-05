@@ -27,7 +27,7 @@ The program explores the state space and identifies the state where the 4-litre 
 
 ## Files
 - `water_jug.py` - Python implementation
-- `Lab1.pdf` (or scanned notes) - Handwritten explanation
+- `Lab1.pdf` - Handwritten explanation
 
 ## Output
 - States generated at each level
