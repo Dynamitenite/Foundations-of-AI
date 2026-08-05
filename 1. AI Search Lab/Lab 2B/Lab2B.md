@@ -6,13 +6,15 @@ Implement the Depth-First Search (DFS) algorithm to find a path between two node
 ## Problem Statement
 Given the following tree:
 
+```text
         A
-      /   \
-     B     C
-    / \   / \
-   D   E F   G
+       / \
+      B   C
+     / \ / \
+    D  E F  G
        |
        H
+```
 
 Find the path from **A** to **H** using Depth-First Search.
 
